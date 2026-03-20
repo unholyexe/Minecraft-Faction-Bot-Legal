@@ -1,0 +1,26 @@
+1. Privacy Policy
+Last Updated: March 19, 2026
+
+1. Data Collection
+The Wall Check Bot ("the Bot") collects limited data to provide leaderboard and logging functionality. This includes:
+
+Discord User IDs and Usernames: Collected when a user interacts with a button (e.g., "Wall Checked") or executes a command.
+
+Timestamped Activity: We log the time and date of your interactions to calculate leaderboard standings.
+
+Message Content: The Bot only "reads" messages that start with its specific command prefix or are part of a button interaction.
+
+2. Use of Data
+Collected data is used exclusively for:
+
+Generating the "Wall Check Leaderboard."
+
+Providing faction administrators with activity logs for security purposes.
+
+Sending automated reminders to designated channels.
+
+3. Data Storage and Security
+Data is stored in CSV and JSON formats on secured servers provided by PythonAnywhere. We do not sell, trade, or share this data with third parties.
+
+4. Data Deletion
+Users may request the removal of their data from the logs at any time. To request deletion, please contact [Your Contact Info/Discord Tag]. Faction administrators also have the ability to wipe server-wide logs using the /resetwallstats command.
